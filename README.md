@@ -7,41 +7,6 @@ App made by Dart - Flutter using Android Studio
 <p align="center">
   Home Screen
   </p>
-#Real Cool Heading
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#real-cool-heading
+# Real Cool Heading
+[Go to Real Cool Heading section](#real-cool-heading)
+# real-cool-heading
