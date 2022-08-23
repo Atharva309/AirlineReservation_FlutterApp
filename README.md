@@ -34,6 +34,6 @@ This project is a simple Airline Reservation with seatbooking, using concepts li
 
 # How to Run the App
 
-If you don't have Flutter SDK installed, please visit official [Flutter]([https://www.google.com](https://docs.flutter.dev/get-started/install)) site.
+If you don't have Flutter SDK installed, please visit official [Flutter](https://docs.flutter.dev/get-started/install) site.  
 Fetch source code from master branch.
 
