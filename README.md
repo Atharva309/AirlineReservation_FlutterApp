@@ -21,6 +21,7 @@ This project is a simple Airline Reservation with seatbooking, using concepts li
 # Features
 
 * Home page with carosel slider
+* spalsh screen
 * Informative and expandable photo gallery
 * Sign in and Login page with validation and errors and colour-coordinated textfields
 * Login information is stored locally using shared-pref
@@ -56,7 +57,7 @@ This software uses the following packages:
 #Screenshots
 
 <img src="https://user-images.githubusercontent.com/91725107/186169418-ec78fa10-9f4b-44ed-87f4-6fc984f29871.jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186169865-e3a513dc-637b-4c24-ad92-bfd244be15ad.gif" width="260" height="550" />
+<gif src="https://user-images.githubusercontent.com/91725107/186169865-e3a513dc-637b-4c24-ad92-bfd244be15ad.gif" width="260" height="550" />
 <img src="" width="260" height="550" />
 <img src="" width="260" height="550" />
 <img src="" width="260" height="550" />
