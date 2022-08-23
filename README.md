@@ -4,9 +4,6 @@ App made purely by Dart - Flutter using Android Studio
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91725107/186158492-b0ba3469-a9fe-4c57-a4ec-4769a0e5fb09.jpeg" width="260" height="550" />
 </p>
-<p align="center">
-  Home Screen
-  </p>
 
 # Table of contents
 [1. About This Project](#About-the-Project)  
@@ -16,4 +13,12 @@ App made purely by Dart - Flutter using Android Studio
 [5. ScreenShots](#Screenshots)  
 
 # About The Project
+
+This repository holds a project made by me during learning flutter-dart as a intern
+The purpose of this project is to learn new technologies like Dart and Flutter and apply concepts about Software.
+This project is a simple Airline Reservation with seatbooking, using concepts like designing, api integration, various Widgets, etc.
+
+# Features
+
+"*"
 
