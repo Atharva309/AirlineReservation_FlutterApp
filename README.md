@@ -45,3 +45,10 @@ Run the app with Android Studio or VS Code. Or the command line:
 flutter pub get
 flutter run
 ```
+
+# Built With
+
+This software uses the following packages:
+* [Flutter](https://docs.flutter.dev/get-started/install)
+* [Dart](https://dart.dev/)
+* [Android Studio](https://developer.android.com/studio)
