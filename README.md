@@ -9,8 +9,8 @@ App made purely by Dart - Flutter using Android Studio
   </p>
 
 # Table of contents
-[1. About This Project](#About-the-Project)
-[2. Features](#Features)
-[3. How to Run](#How-to-Run-the-App)
-[4. Built With](#Built With)
-[5. ScreenShots](#Screenshots)
+[1. About This Project](#About-the-Project)  
+[2. Features](#Features)  
+[3. How to Run](#How-to-Run-the-App)  
+[4. Built With](#Built-With)  
+[5. ScreenShots](#Screenshots)  
