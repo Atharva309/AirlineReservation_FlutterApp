@@ -20,7 +20,20 @@ This project is a simple Airline Reservation with seatbooking, using concepts li
 
 # Features
 
-* hhhh
-* gg gg 
-* g gg
+* Home page with carosel slider
+* Informative and expandable photo gallery
+* Sign in and Login page with validation and errors and colour-coordinated textfields
+* Login information is stored locally using shared-pref
+* Working Otp sms verification with resend Otp using api
+* OTP page Automatically proceeds when OTP filled
+* Loading screens during api call and fluttertoast messages whereever applicable
+* Search flights by dates
+* Seating contains randomly generated pre-occupied seats
+* Every seat has a different prices(stored and pre-defined locally)
+* Ticket page with all ticket information
 
+# How to Run the App
+
+If you don't have Flutter SDK installed, please visit official Flutter site.
+Fetch source code from master branch.
+[I'm an inline-style link](https://www.google.com)
