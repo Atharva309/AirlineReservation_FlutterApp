@@ -78,5 +78,5 @@ This software uses the following packages:
 </p>
 
 <p align="center">
-  THANK you
+  ------THANK YOU------
   </p>
