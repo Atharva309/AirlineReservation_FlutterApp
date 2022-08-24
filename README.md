@@ -57,7 +57,7 @@ This software uses the following packages:
 #Screenshots
 
 <p align="middle">
-<img src="https://user-images.githubusercontent.com/91725107/186169418-ec78fa10-9f4b-44ed-87f4-6fc984f29871.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 3.58.35 PM (1).jpeg" width="260" height="550" />
 <img src="https://user-images.githubusercontent.com/91725107/186169865-e3a513dc-637b-4c24-ad92-bfd244be15ad.gif" width="260" height="550"/>
 <img src="https://user-images.githubusercontent.com/91725107/186339774-45073b60-64b0-4663-9c35-20d0c4dc5574.jpeg" width="260" height="550" />
 </p>
