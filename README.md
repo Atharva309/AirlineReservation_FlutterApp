@@ -2,7 +2,7 @@
 
 App made purely by Dart - Flutter using Android Studio
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91725107/186158492-b0ba3469-a9fe-4c57-a4ec-4769a0e5fb09.jpeg" width="260" height="550" />
+<img src="relative/path/to/Assets/WhatsApp Image 2022-08-23 at 4.58.55 PM.jpeg?raw=true "Title"" width="260" height="550" />
 </p>
 
 # Table of contents
