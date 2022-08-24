@@ -58,23 +58,23 @@ This software uses the following packages:
 
 <p align="middle">
 <img src="assets/WhatsApp Image 2022-08-23 at 3.58.35 PM (1).jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186169865-e3a513dc-637b-4c24-ad92-bfd244be15ad.gif" width="260" height="550"/>
-<img src="https://user-images.githubusercontent.com/91725107/186339774-45073b60-64b0-4663-9c35-20d0c4dc5574.jpeg" width="260" height="550" />
+<img src="assets/ezgif-5-528cd6e88c (1).gif" width="260" height="550"/>
+<img src="assets/WhatsApp Image 2022-08-23 at 3.58.35 PM.jpeg" width="260" height="550" />
 </p>
 <p align="middle">
-<img src="https://user-images.githubusercontent.com/91725107/186339818-2d699499-31ec-4f52-b73f-dea92ead2382.jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186339857-387abadd-86ce-4303-84d9-98a81a3afedc.jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186339983-ce90f11a-b363-4cb3-81ee-5c7f9be129c6.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.52 PM (1).jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.52 PM.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.53 PM (1).jpeg" width="260" height="550" />
 </p>
 <p align="middle">
-<img src="https://user-images.githubusercontent.com/91725107/186340000-8ddf1a30-cfa8-45af-a841-323c95b59a8a.jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186340030-c0ba22ca-12e3-44b2-bd23-ad4a4cc90f9d.jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186340179-19361823-f44e-4729-b9eb-2c2bd2d75c2b.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.53 PM.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.59.58 PM.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.54 PM (3).jpeg" width="260" height="550" />
 </p>
 <p align="middle">
-<img src="https://user-images.githubusercontent.com/91725107/186340193-676beadf-633d-4f67-9384-fbbd685cbd0c.jpeg" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186341806-f1eca9ff-c969-4379-a9c8-b2c65096cd74.gif" width="260" height="550" />
-<img src="https://user-images.githubusercontent.com/91725107/186340233-a6843c52-b8ef-4aa8-9060-c3b5730e166f.jpeg" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.54 PM (1).jpeg" width="260" height="550" />
+<img src="assets/ezgif-3-b1c33c0b13 (1).gif" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.54 PM.jpeg" width="260" height="550" />
 </p>
 
 
