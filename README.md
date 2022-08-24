@@ -77,4 +77,6 @@ This software uses the following packages:
 <img src="assets/WhatsApp Image 2022-08-23 at 4.58.54 PM.jpeg" width="260" height="550" />
 </p>
 
-
+<p align="center">
+  ### THANK you
+  </p>
