@@ -54,7 +54,7 @@ This software uses the following packages:
 * [Dart](https://dart.dev/)
 * [Android Studio](https://developer.android.com/studio)
 
-#Screenshots
+# ScreenShots
 
 <p align="middle">
 <img src="assets/WhatsApp Image 2022-08-23 at 3.58.35 PM (1).jpeg" width="260" height="550" />
