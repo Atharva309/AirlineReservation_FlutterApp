@@ -2,7 +2,7 @@
 
 App made purely by Dart - Flutter using Android Studio
 <p align="center">
-<img src="https://github.com/Atharva309/AirlineReservation_FlutterApp/Assets/WhatsApp Image 2022-08-23 at 4.58.55 PM.jpeg?raw=true "Title"" width="260" height="550" />
+<img src="assets/WhatsApp Image 2022-08-23 at 4.58.55 PM.jpeg?raw=true "Title"" width="260" height="550" />
 </p>
 
 # Table of contents
