@@ -76,6 +76,6 @@ This software uses the following packages:
 <img src="https://user-images.githubusercontent.com/91725107/186340233-a6843c52-b8ef-4aa8-9060-c3b5730e166f.jpeg" width="260" height="550" />
 </p>
 
-![ezgif-3-b1c33c0b13 (1)](https://user-images.githubusercontent.com/91725107/186341806-f1eca9ff-c969-4379-a9c8-b2c65096cd74.gif)
+
 
 
